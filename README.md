@@ -2,7 +2,7 @@
 
 # penny.oink
 
-Considering the recent inflation, and the ongoing recession, it's more important than ever to keep our pockets and our wallets full. That is exactly what penny.oink is designed to do.
+Considering the recent hyper-inflation and the ongoing recession, it's more important than ever to keep our pockets and our wallets full. That is exactly what penny.oink is designed to do.
 
 ## Features
 
@@ -19,3 +19,4 @@ Considering the recent inflation, and the ongoing recession, it's more important
 
 Initially, we wanted to import purchase history from Apple Pay / Google Pay into the app to facilitate expense tracking and remove the need to enter data manually. However, we found that there are no APIs that allow this because of cybersecurity concerns. If ever such a feature becomes possible, we think it would be a great addition to our application.
 
+## Version 0.1.1
